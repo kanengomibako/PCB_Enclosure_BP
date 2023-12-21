@@ -50,4 +50,4 @@
 <img src="img/014.jpg" width="30%"><br>
 <br>
 強度確認の動画です。
-<div><video controls src="https://www.youtube.com/watch?v=CIlCX_3cUUg" muted="false"></video></div>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/CIlCX_3cUUg" title="基板でできたエフェクターケースの強度確認（音声なし）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
