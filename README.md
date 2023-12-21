@@ -48,3 +48,6 @@
 <br>
 おまけとしてトゥルーバイパス配線用基板が付属しています。適宜ご利用ください。<br>
 <img src="img/014.jpg" width="30%"><br>
+<br>
+強度確認の動画です。
+<div><video controls src="https://www.youtube.com/watch?v=CIlCX_3cUUg" muted="false"></video></div>
