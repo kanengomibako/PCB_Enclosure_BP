@@ -50,4 +50,4 @@
 <img src="img/014.jpg" width="30%"><br>
 <br>
 強度確認の動画です。
-[!['強度確認動画']('img/014.jpg')]('https://www.youtube.com/embed/CIlCX_3cUUg')
+[![強度確認動画](img/014.jpg)](https://www.youtube.com/embed/CIlCX_3cUUg)
